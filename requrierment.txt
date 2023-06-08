@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy 
+matlab
+ipyparallel
+feature_engine
+seaborn
+category_encoders
+scipy
+yellowbrick
